@@ -1,6 +1,6 @@
 {
   "name": "redis-cookie-monster",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "redis-cookie-monster is a cookie store for tough-cookie backed by redis",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/0x4139/redis-cookie-monster",
   "dependencies": {
-    "deasync": "^0.1.9",
-    "redis": "^0.12.1",
-    "request": "^2.51.0",
-    "tough-cookie": "^0.12.1"
+    "deasync": "^0.1.10",
+    "redis": "^2.7.1",
+    "request": "^2.81.0",
+    "tough-cookie": "^2.3.2"
   },
   "devDependencies": {
-    "request": "^2.51.0"
+    "request": "^2.81.0"
   }
 }
